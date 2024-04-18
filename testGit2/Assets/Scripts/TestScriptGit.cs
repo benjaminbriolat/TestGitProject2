@@ -5,6 +5,7 @@ using UnityEngine;
 public class TestScriptGit : MonoBehaviour
 {
     string TestString = "TestGit";
+    string TestString2 = "TestGit2";
     // Start is called before the first frame update
     void Start()
     {
